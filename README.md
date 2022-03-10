@@ -3,3 +3,4 @@ A community imitates nowcoder.
 
 ### TODO
 - [ ] forget password
+- [ ] change password
