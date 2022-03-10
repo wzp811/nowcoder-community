@@ -39,6 +39,7 @@ public class MapperTests {
         System.out.println(user);
     }
 
+
     @Test
     public void testInsertUser(){
         User user = new User();
