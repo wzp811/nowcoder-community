@@ -131,4 +131,18 @@ public class LoginController implements CommunityConstant {
         return "redirect:/login";
     }
 
+    // 找回密码页面
+    @RequestMapping(path = "/forget",method = RequestMethod.GET)
+    public String getForgetPage(){
+        return "/site/forget";
+    }
+
+    // 重置密码
+    @RequestMapping(path = "/forget/", method = RequestMethod.POST)
+    public String forget(String email, String password, String code,
+                         Model model, HttpSession session){
+        Map<String,Object> map = userService.forget(email,code,password);
+        return "/site/login";
+    }
+
 }

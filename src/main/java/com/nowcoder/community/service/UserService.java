@@ -165,4 +165,14 @@ public class UserService implements CommunityConstant {
         loginTicketMapper.updateStatus(ticket,1);
     }
 
+    public Map<String, Object> forget(String email, String code, String password) {
+        Map<String,Object> map = new HashMap<>();
+
+        return map;
+    }
+
+    public LoginTicket findLoginTicket(String ticket) {
+        return loginTicketMapper.selectByTicket(ticket);
+    }
+
 }
