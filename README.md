@@ -1,2 +1,2 @@
 # nowcoder-community
-a community imitates nowcoder
+A community imitates nowcoder.
