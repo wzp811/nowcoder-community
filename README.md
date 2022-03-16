@@ -5,3 +5,4 @@ A community imitates nowcoder.
 - [ ] forget password
 - [ ] change password
 - [ ] improve sensitive word filtering
+- [ ] delete message
