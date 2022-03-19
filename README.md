@@ -6,3 +6,5 @@ A community imitates nowcoder.
 - [ ] change password
 - [ ] improve sensitive word filtering
 - [ ] delete message
+- [ ] my posts
+- [ ] my comments
