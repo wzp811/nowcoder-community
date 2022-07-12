@@ -14,7 +14,7 @@ start up zookeeper : `bin\windows\zookeeper-server-start.bat config\zookeeper.pr
 
 shut up zookeeper : `bin\windows\zookeeper-server-stop.bat`
 
-start up kafka : `bin\windows\kafka-server-start.bat config\server.properites`
+start up kafka : `bin\windows\kafka-server-start.bat config\server.properties`
 
 shut up kafka : `bin\windows\kafka-server-stop.bat`
 
