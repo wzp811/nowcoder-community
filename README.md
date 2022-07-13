@@ -19,5 +19,3 @@ start up kafka : `bin\windows\kafka-server-start.bat config\server.properties`
 shut up kafka : `bin\windows\kafka-server-stop.bat`
 
 start up elasticsearch : `bin\elasticsearch.bat`
-
-shut up elasticsearch : ''
