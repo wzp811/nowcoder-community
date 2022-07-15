@@ -242,3 +242,7 @@ java.lang.IllegalStateException: JobStore is shutdown - aborting retry
 	at org.quartz.core.QuartzScheduler.notifyJobStoreJobComplete(QuartzScheduler.java:1786)
 	at org.quartz.core.JobRunShell.run(JobRunShell.java:269)
 	at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:573)
+2022-07-15 23:34:51,398 ERROR [scheduling-3] c.n.c.e.EventConsumer [EventConsumer.java:202] 执行时间过长，终止任务: 06b784657d934b4e8fef671f6dbd0823
+2022-07-15 23:36:32,250 ERROR [scheduling-5] c.n.c.e.EventConsumer [EventConsumer.java:202] 执行时间过长，终止任务: a21d085beef349c286f3c1871cf5fddd
+2022-07-15 23:46:11,561 ERROR [scheduling-1] c.n.c.e.EventConsumer [EventConsumer.java:202] 执行时间过长，终止任务: 928c78de67f345d1b64a63bed1b07a3f
+2022-07-15 23:47:51,900 ERROR [scheduling-3] c.n.c.e.EventConsumer [EventConsumer.java:202] 执行时间过长，终止任务: c1f507361a4649b0b182857a5413abe1
