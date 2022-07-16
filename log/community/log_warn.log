@@ -11,3 +11,284 @@
 2022-07-16 19:08:41,153 WARN [I/O dispatcher 1] o.e.c.RestClient [RequestLogger.java:65] request [GET http://127.0.0.1:9200/] returned 1 warnings: [299 Elasticsearch-7.15.2-93d5a7f6192e8a1a12e154a2b81bf6fa7309da0c "Elasticsearch built-in security features are not enabled. Without authentication, your cluster could be accessible to anyone. See https://www.elastic.co/guide/en/elasticsearch/reference/7.15/security-minimal-setup.html to enable security."]
 2022-07-16 19:08:41,178 WARN [restartedMain] o.e.c.RestClient [RequestLogger.java:65] request [HEAD http://127.0.0.1:9200/discusspost?ignore_throttled=false&ignore_unavailable=false&expand_wildcards=open%2Cclosed&allow_no_indices=false] returned 1 warnings: [299 Elasticsearch-7.15.2-93d5a7f6192e8a1a12e154a2b81bf6fa7309da0c "Elasticsearch built-in security features are not enabled. Without authentication, your cluster could be accessible to anyone. See https://www.elastic.co/guide/en/elasticsearch/reference/7.15/security-minimal-setup.html to enable security."]
 2022-07-16 19:08:42,232 WARN [restartedMain] o.s.s.c.a.w.b.WebSecurity [WebSecurity.java:294] You are asking Spring Security to ignore Ant [pattern='/resources/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+2022-07-16 19:40:08,393 WARN [I/O dispatcher 1] o.e.c.RestClient [RequestLogger.java:65] request [GET http://127.0.0.1:9200/] returned 1 warnings: [299 Elasticsearch-7.15.2-93d5a7f6192e8a1a12e154a2b81bf6fa7309da0c "Elasticsearch built-in security features are not enabled. Without authentication, your cluster could be accessible to anyone. See https://www.elastic.co/guide/en/elasticsearch/reference/7.15/security-minimal-setup.html to enable security."]
+2022-07-16 19:40:08,434 WARN [main] o.e.c.RestClient [RequestLogger.java:65] request [HEAD http://127.0.0.1:9200/discusspost?ignore_throttled=false&ignore_unavailable=false&expand_wildcards=open%2Cclosed&allow_no_indices=false] returned 1 warnings: [299 Elasticsearch-7.15.2-93d5a7f6192e8a1a12e154a2b81bf6fa7309da0c "Elasticsearch built-in security features are not enabled. Without authentication, your cluster could be accessible to anyone. See https://www.elastic.co/guide/en/elasticsearch/reference/7.15/security-minimal-setup.html to enable security."]
+2022-07-16 19:40:12,819 WARN [main] o.s.s.c.a.w.b.WebSecurity [WebSecurity.java:294] You are asking Spring Security to ignore Ant [pattern='/resources/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+2022-07-16 19:42:53,329 WARN [I/O dispatcher 1] o.e.c.RestClient [RequestLogger.java:65] request [GET http://127.0.0.1:9200/] returned 1 warnings: [299 Elasticsearch-7.15.2-93d5a7f6192e8a1a12e154a2b81bf6fa7309da0c "Elasticsearch built-in security features are not enabled. Without authentication, your cluster could be accessible to anyone. See https://www.elastic.co/guide/en/elasticsearch/reference/7.15/security-minimal-setup.html to enable security."]
+2022-07-16 19:42:53,371 WARN [main] o.e.c.RestClient [RequestLogger.java:65] request [HEAD http://127.0.0.1:9200/discusspost?ignore_throttled=false&ignore_unavailable=false&expand_wildcards=open%2Cclosed&allow_no_indices=false] returned 1 warnings: [299 Elasticsearch-7.15.2-93d5a7f6192e8a1a12e154a2b81bf6fa7309da0c "Elasticsearch built-in security features are not enabled. Without authentication, your cluster could be accessible to anyone. See https://www.elastic.co/guide/en/elasticsearch/reference/7.15/security-minimal-setup.html to enable security."]
+2022-07-16 19:42:57,321 WARN [main] o.s.s.c.a.w.b.WebSecurity [WebSecurity.java:294] You are asking Spring Security to ignore Ant [pattern='/resources/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+2022-07-16 19:45:15,042 WARN [I/O dispatcher 1] o.e.c.RestClient [RequestLogger.java:65] request [GET http://127.0.0.1:9200/] returned 1 warnings: [299 Elasticsearch-7.15.2-93d5a7f6192e8a1a12e154a2b81bf6fa7309da0c "Elasticsearch built-in security features are not enabled. Without authentication, your cluster could be accessible to anyone. See https://www.elastic.co/guide/en/elasticsearch/reference/7.15/security-minimal-setup.html to enable security."]
+2022-07-16 19:45:15,117 WARN [main] o.e.c.RestClient [RequestLogger.java:65] request [HEAD http://127.0.0.1:9200/discusspost?ignore_throttled=false&ignore_unavailable=false&expand_wildcards=open%2Cclosed&allow_no_indices=false] returned 1 warnings: [299 Elasticsearch-7.15.2-93d5a7f6192e8a1a12e154a2b81bf6fa7309da0c "Elasticsearch built-in security features are not enabled. Without authentication, your cluster could be accessible to anyone. See https://www.elastic.co/guide/en/elasticsearch/reference/7.15/security-minimal-setup.html to enable security."]
+2022-07-16 19:45:19,895 WARN [main] o.s.s.c.a.w.b.WebSecurity [WebSecurity.java:294] You are asking Spring Security to ignore Ant [pattern='/resources/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+2022-07-16 19:54:08,465 WARN [I/O dispatcher 1] o.e.c.RestClient [RequestLogger.java:65] request [GET http://127.0.0.1:9200/] returned 1 warnings: [299 Elasticsearch-7.15.2-93d5a7f6192e8a1a12e154a2b81bf6fa7309da0c "Elasticsearch built-in security features are not enabled. Without authentication, your cluster could be accessible to anyone. See https://www.elastic.co/guide/en/elasticsearch/reference/7.15/security-minimal-setup.html to enable security."]
+2022-07-16 19:54:08,525 WARN [restartedMain] o.e.c.RestClient [RequestLogger.java:65] request [HEAD http://127.0.0.1:9200/discusspost?ignore_throttled=false&ignore_unavailable=false&expand_wildcards=open%2Cclosed&allow_no_indices=false] returned 1 warnings: [299 Elasticsearch-7.15.2-93d5a7f6192e8a1a12e154a2b81bf6fa7309da0c "Elasticsearch built-in security features are not enabled. Without authentication, your cluster could be accessible to anyone. See https://www.elastic.co/guide/en/elasticsearch/reference/7.15/security-minimal-setup.html to enable security."]
+2022-07-16 19:54:12,397 WARN [restartedMain] o.s.s.c.a.w.b.WebSecurity [WebSecurity.java:294] You are asking Spring Security to ignore Ant [pattern='/resources/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+2022-07-16 19:54:14,493 WARN [RMI TCP Connection(3)-192.168.56.1] o.e.c.RestClient [RequestLogger.java:65] request [GET http://127.0.0.1:9200/_cluster/health/] returned 1 warnings: [299 Elasticsearch-7.15.2-93d5a7f6192e8a1a12e154a2b81bf6fa7309da0c "Elasticsearch built-in security features are not enabled. Without authentication, your cluster could be accessible to anyone. See https://www.elastic.co/guide/en/elasticsearch/reference/7.15/security-minimal-setup.html to enable security."]
+2022-07-16 19:54:20,169 WARN [RMI TCP Connection(3)-192.168.56.1] o.s.b.a.m.MailHealthIndicator [AbstractHealthIndicator.java:94] Mail health check failed
+javax.mail.AuthenticationFailedException: 535 Login Fail. Please enter your authorization code to login. More information in http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256
+
+	at com.sun.mail.smtp.SMTPTransport$Authenticator.authenticate(SMTPTransport.java:947)
+	at com.sun.mail.smtp.SMTPTransport.authenticate(SMTPTransport.java:858)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:762)
+	at javax.mail.Service.connect(Service.java:342)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.connectTransport(JavaMailSenderImpl.java:518)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.testConnection(JavaMailSenderImpl.java:398)
+	at org.springframework.boot.actuate.mail.MailHealthIndicator.doHealthCheck(MailHealthIndicator.java:42)
+	at org.springframework.boot.actuate.health.AbstractHealthIndicator.health(AbstractHealthIndicator.java:82)
+	at org.springframework.boot.actuate.health.HealthIndicator.getHealth(HealthIndicator.java:37)
+	at org.springframework.boot.actuate.health.HealthEndpoint.getHealth(HealthEndpoint.java:77)
+	at org.springframework.boot.actuate.health.HealthEndpoint.getHealth(HealthEndpoint.java:40)
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getContribution(HealthEndpointSupport.java:130)
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getAggregateContribution(HealthEndpointSupport.java:141)
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getContribution(HealthEndpointSupport.java:126)
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getHealth(HealthEndpointSupport.java:95)
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getHealth(HealthEndpointSupport.java:66)
+	at org.springframework.boot.actuate.health.HealthEndpoint.health(HealthEndpoint.java:71)
+	at org.springframework.boot.actuate.health.HealthEndpoint.health(HealthEndpoint.java:61)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:282)
+	at org.springframework.boot.actuate.endpoint.invoke.reflect.ReflectiveOperationInvoker.invoke(ReflectiveOperationInvoker.java:74)
+	at org.springframework.boot.actuate.endpoint.annotation.AbstractDiscoveredOperation.invoke(AbstractDiscoveredOperation.java:60)
+	at org.springframework.boot.actuate.endpoint.jmx.EndpointMBean.invoke(EndpointMBean.java:121)
+	at org.springframework.boot.actuate.endpoint.jmx.EndpointMBean.invoke(EndpointMBean.java:96)
+	at java.management/com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.invoke(DefaultMBeanServerInterceptor.java:814)
+	at java.management/com.sun.jmx.mbeanserver.JmxMBeanServer.invoke(JmxMBeanServer.java:802)
+	at java.management.rmi/javax.management.remote.rmi.RMIConnectionImpl.doOperation(RMIConnectionImpl.java:1472)
+	at java.management.rmi/javax.management.remote.rmi.RMIConnectionImpl$PrivilegedOperation.run(RMIConnectionImpl.java:1310)
+	at java.management.rmi/javax.management.remote.rmi.RMIConnectionImpl.doPrivilegedOperation(RMIConnectionImpl.java:1405)
+	at java.management.rmi/javax.management.remote.rmi.RMIConnectionImpl.invoke(RMIConnectionImpl.java:829)
+	at java.base/jdk.internal.reflect.GeneratedMethodAccessor70.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.rmi/sun.rmi.server.UnicastServerRef.dispatch(UnicastServerRef.java:360)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:200)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:197)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:712)
+	at java.rmi/sun.rmi.transport.Transport.serviceCall(Transport.java:196)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport.handleMessages(TCPTransport.java:587)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run0(TCPTransport.java:828)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.lambda$run$0(TCPTransport.java:705)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run(TCPTransport.java:704)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-07-16 19:58:33,189 WARN [http-nio-8080-exec-8] o.e.c.RestClient [RequestLogger.java:65] request [GET http://127.0.0.1:9200/_cluster/health/] returned 1 warnings: [299 Elasticsearch-7.15.2-93d5a7f6192e8a1a12e154a2b81bf6fa7309da0c "Elasticsearch built-in security features are not enabled. Without authentication, your cluster could be accessible to anyone. See https://www.elastic.co/guide/en/elasticsearch/reference/7.15/security-minimal-setup.html to enable security."]
+2022-07-16 19:58:38,003 WARN [http-nio-8080-exec-8] o.s.b.a.m.MailHealthIndicator [AbstractHealthIndicator.java:94] Mail health check failed
+javax.mail.AuthenticationFailedException: 535 Login Fail. Please enter your authorization code to login. More information in http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256
+
+	at com.sun.mail.smtp.SMTPTransport$Authenticator.authenticate(SMTPTransport.java:947)
+	at com.sun.mail.smtp.SMTPTransport.authenticate(SMTPTransport.java:858)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:762)
+	at javax.mail.Service.connect(Service.java:342)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.connectTransport(JavaMailSenderImpl.java:518)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.testConnection(JavaMailSenderImpl.java:398)
+	at org.springframework.boot.actuate.mail.MailHealthIndicator.doHealthCheck(MailHealthIndicator.java:42)
+	at org.springframework.boot.actuate.health.AbstractHealthIndicator.health(AbstractHealthIndicator.java:82)
+	at org.springframework.boot.actuate.health.HealthIndicator.getHealth(HealthIndicator.java:37)
+	at org.springframework.boot.actuate.health.HealthEndpointWebExtension.getHealth(HealthEndpointWebExtension.java:87)
+	at org.springframework.boot.actuate.health.HealthEndpointWebExtension.getHealth(HealthEndpointWebExtension.java:45)
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getContribution(HealthEndpointSupport.java:130)
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getAggregateContribution(HealthEndpointSupport.java:141)
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getContribution(HealthEndpointSupport.java:126)
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getHealth(HealthEndpointSupport.java:95)
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getHealth(HealthEndpointSupport.java:66)
+	at org.springframework.boot.actuate.health.HealthEndpointWebExtension.health(HealthEndpointWebExtension.java:73)
+	at org.springframework.boot.actuate.health.HealthEndpointWebExtension.health(HealthEndpointWebExtension.java:62)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:282)
+	at org.springframework.boot.actuate.endpoint.invoke.reflect.ReflectiveOperationInvoker.invoke(ReflectiveOperationInvoker.java:74)
+	at org.springframework.boot.actuate.endpoint.annotation.AbstractDiscoveredOperation.invoke(AbstractDiscoveredOperation.java:60)
+	at org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$ServletWebOperationAdapter.handle(AbstractWebMvcEndpointHandlerMapping.java:336)
+	at org.springframework.boot.actuate.endpoint.web.servlet.AbstractWebMvcEndpointHandlerMapping$OperationHandler.handle(AbstractWebMvcEndpointHandlerMapping.java:421)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:327)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:115)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:81)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:122)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:126)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:81)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:109)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:149)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:103)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:89)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:110)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:80)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:55)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:336)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:211)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:183)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:354)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:267)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:359)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:889)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1735)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-07-16 20:00:04,472 WARN [I/O dispatcher 1] o.e.c.RestClient [RequestLogger.java:65] request [GET http://127.0.0.1:9200/] returned 1 warnings: [299 Elasticsearch-7.15.2-93d5a7f6192e8a1a12e154a2b81bf6fa7309da0c "Elasticsearch built-in security features are not enabled. Without authentication, your cluster could be accessible to anyone. See https://www.elastic.co/guide/en/elasticsearch/reference/7.15/security-minimal-setup.html to enable security."]
+2022-07-16 20:00:04,502 WARN [restartedMain] o.e.c.RestClient [RequestLogger.java:65] request [HEAD http://127.0.0.1:9200/discusspost?ignore_throttled=false&ignore_unavailable=false&expand_wildcards=open%2Cclosed&allow_no_indices=false] returned 1 warnings: [299 Elasticsearch-7.15.2-93d5a7f6192e8a1a12e154a2b81bf6fa7309da0c "Elasticsearch built-in security features are not enabled. Without authentication, your cluster could be accessible to anyone. See https://www.elastic.co/guide/en/elasticsearch/reference/7.15/security-minimal-setup.html to enable security."]
+2022-07-16 20:00:05,744 WARN [restartedMain] o.s.s.c.a.w.b.WebSecurity [WebSecurity.java:294] You are asking Spring Security to ignore Ant [pattern='/resources/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+2022-07-16 20:00:06,482 WARN [RMI TCP Connection(2)-192.168.56.1] o.e.c.RestClient [RequestLogger.java:65] request [GET http://127.0.0.1:9200/_cluster/health/] returned 1 warnings: [299 Elasticsearch-7.15.2-93d5a7f6192e8a1a12e154a2b81bf6fa7309da0c "Elasticsearch built-in security features are not enabled. Without authentication, your cluster could be accessible to anyone. See https://www.elastic.co/guide/en/elasticsearch/reference/7.15/security-minimal-setup.html to enable security."]
+2022-07-16 20:00:11,567 WARN [RMI TCP Connection(2)-192.168.56.1] o.s.b.a.m.MailHealthIndicator [AbstractHealthIndicator.java:94] Mail health check failed
+javax.mail.AuthenticationFailedException: 535 Login Fail. Please enter your authorization code to login. More information in http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256
+
+	at com.sun.mail.smtp.SMTPTransport$Authenticator.authenticate(SMTPTransport.java:947)
+	at com.sun.mail.smtp.SMTPTransport.authenticate(SMTPTransport.java:858)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:762)
+	at javax.mail.Service.connect(Service.java:342)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.connectTransport(JavaMailSenderImpl.java:518)
+	at org.springframework.mail.javamail.JavaMailSenderImpl.testConnection(JavaMailSenderImpl.java:398)
+	at org.springframework.boot.actuate.mail.MailHealthIndicator.doHealthCheck(MailHealthIndicator.java:42)
+	at org.springframework.boot.actuate.health.AbstractHealthIndicator.health(AbstractHealthIndicator.java:82)
+	at org.springframework.boot.actuate.health.HealthIndicator.getHealth(HealthIndicator.java:37)
+	at org.springframework.boot.actuate.health.HealthEndpoint.getHealth(HealthEndpoint.java:77)
+	at org.springframework.boot.actuate.health.HealthEndpoint.getHealth(HealthEndpoint.java:40)
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getContribution(HealthEndpointSupport.java:130)
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getAggregateContribution(HealthEndpointSupport.java:141)
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getContribution(HealthEndpointSupport.java:126)
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getHealth(HealthEndpointSupport.java:95)
+	at org.springframework.boot.actuate.health.HealthEndpointSupport.getHealth(HealthEndpointSupport.java:66)
+	at org.springframework.boot.actuate.health.HealthEndpoint.health(HealthEndpoint.java:71)
+	at org.springframework.boot.actuate.health.HealthEndpoint.health(HealthEndpoint.java:61)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:282)
+	at org.springframework.boot.actuate.endpoint.invoke.reflect.ReflectiveOperationInvoker.invoke(ReflectiveOperationInvoker.java:74)
+	at org.springframework.boot.actuate.endpoint.annotation.AbstractDiscoveredOperation.invoke(AbstractDiscoveredOperation.java:60)
+	at org.springframework.boot.actuate.endpoint.jmx.EndpointMBean.invoke(EndpointMBean.java:121)
+	at org.springframework.boot.actuate.endpoint.jmx.EndpointMBean.invoke(EndpointMBean.java:96)
+	at java.management/com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.invoke(DefaultMBeanServerInterceptor.java:814)
+	at java.management/com.sun.jmx.mbeanserver.JmxMBeanServer.invoke(JmxMBeanServer.java:802)
+	at java.management.rmi/javax.management.remote.rmi.RMIConnectionImpl.doOperation(RMIConnectionImpl.java:1472)
+	at java.management.rmi/javax.management.remote.rmi.RMIConnectionImpl$PrivilegedOperation.run(RMIConnectionImpl.java:1310)
+	at java.management.rmi/javax.management.remote.rmi.RMIConnectionImpl.doPrivilegedOperation(RMIConnectionImpl.java:1405)
+	at java.management.rmi/javax.management.remote.rmi.RMIConnectionImpl.invoke(RMIConnectionImpl.java:829)
+	at java.base/jdk.internal.reflect.GeneratedMethodAccessor67.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.rmi/sun.rmi.server.UnicastServerRef.dispatch(UnicastServerRef.java:360)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:200)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:197)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:712)
+	at java.rmi/sun.rmi.transport.Transport.serviceCall(Transport.java:196)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport.handleMessages(TCPTransport.java:587)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run0(TCPTransport.java:828)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.lambda$run$0(TCPTransport.java:705)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run(TCPTransport.java:704)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-07-16 20:04:50,871 WARN [I/O dispatcher 1] o.e.c.RestClient [RequestLogger.java:65] request [GET http://127.0.0.1:9200/] returned 1 warnings: [299 Elasticsearch-7.15.2-93d5a7f6192e8a1a12e154a2b81bf6fa7309da0c "Elasticsearch built-in security features are not enabled. Without authentication, your cluster could be accessible to anyone. See https://www.elastic.co/guide/en/elasticsearch/reference/7.15/security-minimal-setup.html to enable security."]
+2022-07-16 20:04:50,894 WARN [restartedMain] o.e.c.RestClient [RequestLogger.java:65] request [HEAD http://127.0.0.1:9200/discusspost?ignore_throttled=false&ignore_unavailable=false&expand_wildcards=open%2Cclosed&allow_no_indices=false] returned 1 warnings: [299 Elasticsearch-7.15.2-93d5a7f6192e8a1a12e154a2b81bf6fa7309da0c "Elasticsearch built-in security features are not enabled. Without authentication, your cluster could be accessible to anyone. See https://www.elastic.co/guide/en/elasticsearch/reference/7.15/security-minimal-setup.html to enable security."]
+2022-07-16 20:04:51,965 WARN [restartedMain] o.s.s.c.a.w.b.WebSecurity [WebSecurity.java:294] You are asking Spring Security to ignore Ant [pattern='/resources/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+2022-07-16 20:04:52,798 WARN [RMI TCP Connection(3)-192.168.56.1] o.e.c.RestClient [RequestLogger.java:65] request [GET http://127.0.0.1:9200/_cluster/health/] returned 1 warnings: [299 Elasticsearch-7.15.2-93d5a7f6192e8a1a12e154a2b81bf6fa7309da0c "Elasticsearch built-in security features are not enabled. Without authentication, your cluster could be accessible to anyone. See https://www.elastic.co/guide/en/elasticsearch/reference/7.15/security-minimal-setup.html to enable security."]
+2022-07-16 20:05:09,229 WARN [http-nio-8080-exec-5] o.e.c.RestClient [RequestLogger.java:65] request [GET http://127.0.0.1:9200/_cluster/health/] returned 1 warnings: [299 Elasticsearch-7.15.2-93d5a7f6192e8a1a12e154a2b81bf6fa7309da0c "Elasticsearch built-in security features are not enabled. Without authentication, your cluster could be accessible to anyone. See https://www.elastic.co/guide/en/elasticsearch/reference/7.15/security-minimal-setup.html to enable security."]
+2022-07-16 20:07:25,375 WARN [I/O dispatcher 1] o.e.c.RestClient [RequestLogger.java:65] request [GET http://127.0.0.1:9200/] returned 1 warnings: [299 Elasticsearch-7.15.2-93d5a7f6192e8a1a12e154a2b81bf6fa7309da0c "Elasticsearch built-in security features are not enabled. Without authentication, your cluster could be accessible to anyone. See https://www.elastic.co/guide/en/elasticsearch/reference/7.15/security-minimal-setup.html to enable security."]
+2022-07-16 20:07:25,439 WARN [restartedMain] o.e.c.RestClient [RequestLogger.java:65] request [HEAD http://127.0.0.1:9200/discusspost?ignore_throttled=false&ignore_unavailable=false&expand_wildcards=open%2Cclosed&allow_no_indices=false] returned 1 warnings: [299 Elasticsearch-7.15.2-93d5a7f6192e8a1a12e154a2b81bf6fa7309da0c "Elasticsearch built-in security features are not enabled. Without authentication, your cluster could be accessible to anyone. See https://www.elastic.co/guide/en/elasticsearch/reference/7.15/security-minimal-setup.html to enable security."]
+2022-07-16 20:07:28,330 WARN [restartedMain] o.s.s.c.a.w.b.WebSecurity [WebSecurity.java:294] You are asking Spring Security to ignore Ant [pattern='/resources/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+2022-07-16 20:13:55,282 WARN [I/O dispatcher 1] o.e.c.RestClient [RequestLogger.java:65] request [GET http://127.0.0.1:9200/] returned 1 warnings: [299 Elasticsearch-7.15.2-93d5a7f6192e8a1a12e154a2b81bf6fa7309da0c "Elasticsearch built-in security features are not enabled. Without authentication, your cluster could be accessible to anyone. See https://www.elastic.co/guide/en/elasticsearch/reference/7.15/security-minimal-setup.html to enable security."]
+2022-07-16 20:13:55,309 WARN [restartedMain] o.e.c.RestClient [RequestLogger.java:65] request [HEAD http://127.0.0.1:9200/discusspost?ignore_throttled=false&ignore_unavailable=false&expand_wildcards=open%2Cclosed&allow_no_indices=false] returned 1 warnings: [299 Elasticsearch-7.15.2-93d5a7f6192e8a1a12e154a2b81bf6fa7309da0c "Elasticsearch built-in security features are not enabled. Without authentication, your cluster could be accessible to anyone. See https://www.elastic.co/guide/en/elasticsearch/reference/7.15/security-minimal-setup.html to enable security."]
+2022-07-16 20:13:57,081 WARN [restartedMain] o.s.s.c.a.w.b.WebSecurity [WebSecurity.java:294] You are asking Spring Security to ignore Ant [pattern='/resources/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+2022-07-16 20:17:29,080 WARN [I/O dispatcher 1] o.e.c.RestClient [RequestLogger.java:65] request [GET http://127.0.0.1:9200/] returned 1 warnings: [299 Elasticsearch-7.15.2-93d5a7f6192e8a1a12e154a2b81bf6fa7309da0c "Elasticsearch built-in security features are not enabled. Without authentication, your cluster could be accessible to anyone. See https://www.elastic.co/guide/en/elasticsearch/reference/7.15/security-minimal-setup.html to enable security."]
+2022-07-16 20:17:29,104 WARN [restartedMain] o.e.c.RestClient [RequestLogger.java:65] request [HEAD http://127.0.0.1:9200/discusspost?ignore_throttled=false&ignore_unavailable=false&expand_wildcards=open%2Cclosed&allow_no_indices=false] returned 1 warnings: [299 Elasticsearch-7.15.2-93d5a7f6192e8a1a12e154a2b81bf6fa7309da0c "Elasticsearch built-in security features are not enabled. Without authentication, your cluster could be accessible to anyone. See https://www.elastic.co/guide/en/elasticsearch/reference/7.15/security-minimal-setup.html to enable security."]
+2022-07-16 20:17:30,223 WARN [restartedMain] o.s.s.c.a.w.b.WebSecurity [WebSecurity.java:294] You are asking Spring Security to ignore Ant [pattern='/resources/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+2022-07-16 20:17:31,247 WARN [RMI TCP Connection(1)-192.168.56.1] o.e.c.RestClient [RequestLogger.java:65] request [GET http://127.0.0.1:9200/_cluster/health/] returned 1 warnings: [299 Elasticsearch-7.15.2-93d5a7f6192e8a1a12e154a2b81bf6fa7309da0c "Elasticsearch built-in security features are not enabled. Without authentication, your cluster could be accessible to anyone. See https://www.elastic.co/guide/en/elasticsearch/reference/7.15/security-minimal-setup.html to enable security."]
+2022-07-16 20:20:59,163 WARN [http-nio-8080-exec-8] o.e.c.RestClient [RequestLogger.java:65] request [GET http://127.0.0.1:9200/_cluster/health/] returned 1 warnings: [299 Elasticsearch-7.15.2-93d5a7f6192e8a1a12e154a2b81bf6fa7309da0c "Elasticsearch built-in security features are not enabled. Without authentication, your cluster could be accessible to anyone. See https://www.elastic.co/guide/en/elasticsearch/reference/7.15/security-minimal-setup.html to enable security."]
+2022-07-16 20:22:12,535 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:766] [Consumer clientId=consumer-community-consumer-group-3, groupId=community-consumer-group] Connection to node 0 (DESKTOP-KEGAFFQ/192.168.56.1:9092) could not be established. Broker may not be available.
+2022-07-16 20:22:12,535 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#3-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:766] [Consumer clientId=consumer-community-consumer-group-2, groupId=community-consumer-group] Connection to node 0 (DESKTOP-KEGAFFQ/192.168.56.1:9092) could not be established. Broker may not be available.
+2022-07-16 20:22:12,535 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#1-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:766] [Consumer clientId=consumer-community-consumer-group-4, groupId=community-consumer-group] Connection to node 0 (DESKTOP-KEGAFFQ/192.168.56.1:9092) could not be established. Broker may not be available.
+2022-07-16 20:22:12,551 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#2-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:766] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Connection to node 0 (DESKTOP-KEGAFFQ/192.168.56.1:9092) could not be established. Broker may not be available.
+2022-07-16 20:22:14,645 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:766] [Consumer clientId=consumer-community-consumer-group-3, groupId=community-consumer-group] Connection to node 0 (DESKTOP-KEGAFFQ/172.30.207.29:9092) could not be established. Broker may not be available.
+2022-07-16 20:22:14,662 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#3-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:766] [Consumer clientId=consumer-community-consumer-group-2, groupId=community-consumer-group] Connection to node 0 (DESKTOP-KEGAFFQ/172.30.207.29:9092) could not be established. Broker may not be available.
+2022-07-16 20:22:14,678 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#2-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:766] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Connection to node 0 (DESKTOP-KEGAFFQ/172.30.207.29:9092) could not be established. Broker may not be available.
+2022-07-16 20:22:14,709 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#1-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:766] [Consumer clientId=consumer-community-consumer-group-4, groupId=community-consumer-group] Connection to node 0 (DESKTOP-KEGAFFQ/172.30.207.29:9092) could not be established. Broker may not be available.
+2022-07-16 20:22:16,870 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:766] [Consumer clientId=consumer-community-consumer-group-3, groupId=community-consumer-group] Connection to node 0 (DESKTOP-KEGAFFQ/192.168.64.1:9092) could not be established. Broker may not be available.
+2022-07-16 20:22:16,902 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#2-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:766] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Connection to node 0 (DESKTOP-KEGAFFQ/192.168.64.1:9092) could not be established. Broker may not be available.
+2022-07-16 20:22:16,934 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#3-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:766] [Consumer clientId=consumer-community-consumer-group-2, groupId=community-consumer-group] Connection to node 0 (DESKTOP-KEGAFFQ/192.168.64.1:9092) could not be established. Broker may not be available.
+2022-07-16 20:22:16,982 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#1-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:766] [Consumer clientId=consumer-community-consumer-group-4, groupId=community-consumer-group] Connection to node 0 (DESKTOP-KEGAFFQ/192.168.64.1:9092) could not be established. Broker may not be available.
+2022-07-16 20:22:19,334 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#2-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:766] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Connection to node 0 (DESKTOP-KEGAFFQ/192.168.238.1:9092) could not be established. Broker may not be available.
+2022-07-16 20:22:19,351 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:766] [Consumer clientId=consumer-community-consumer-group-3, groupId=community-consumer-group] Connection to node 0 (DESKTOP-KEGAFFQ/192.168.238.1:9092) could not be established. Broker may not be available.
+2022-07-16 20:22:19,366 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#3-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:766] [Consumer clientId=consumer-community-consumer-group-2, groupId=community-consumer-group] Connection to node 0 (DESKTOP-KEGAFFQ/192.168.238.1:9092) could not be established. Broker may not be available.
+2022-07-16 20:22:19,508 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#1-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:766] [Consumer clientId=consumer-community-consumer-group-4, groupId=community-consumer-group] Connection to node 0 (DESKTOP-KEGAFFQ/192.168.238.1:9092) could not be established. Broker may not be available.
+2022-07-16 20:22:22,140 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:766] [Consumer clientId=consumer-community-consumer-group-3, groupId=community-consumer-group] Connection to node 0 (DESKTOP-KEGAFFQ/192.168.56.1:9092) could not be established. Broker may not be available.
+2022-07-16 20:22:22,232 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#2-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:766] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Connection to node 0 (DESKTOP-KEGAFFQ/192.168.56.1:9092) could not be established. Broker may not be available.
+2022-07-16 20:22:22,293 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#3-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:766] [Consumer clientId=consumer-community-consumer-group-2, groupId=community-consumer-group] Connection to node 0 (DESKTOP-KEGAFFQ/192.168.56.1:9092) could not be established. Broker may not be available.
+2022-07-16 20:22:22,386 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#1-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:766] [Consumer clientId=consumer-community-consumer-group-4, groupId=community-consumer-group] Connection to node 0 (DESKTOP-KEGAFFQ/192.168.56.1:9092) could not be established. Broker may not be available.
+2022-07-16 20:22:25,126 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:766] [Consumer clientId=consumer-community-consumer-group-3, groupId=community-consumer-group] Connection to node 0 (DESKTOP-KEGAFFQ/172.30.207.29:9092) could not be established. Broker may not be available.
+2022-07-16 20:22:25,221 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#2-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:766] [Consumer clientId=consumer-community-consumer-group-1, groupId=community-consumer-group] Connection to node 0 (DESKTOP-KEGAFFQ/172.30.207.29:9092) could not be established. Broker may not be available.
+2022-07-16 20:22:25,377 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#1-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:766] [Consumer clientId=consumer-community-consumer-group-4, groupId=community-consumer-group] Connection to node 0 (DESKTOP-KEGAFFQ/172.30.207.29:9092) could not be established. Broker may not be available.
+2022-07-16 20:22:25,393 WARN [org.springframework.kafka.KafkaListenerEndpointContainer#3-0-C-1] o.a.k.c.NetworkClient [NetworkClient.java:766] [Consumer clientId=consumer-community-consumer-group-2, groupId=community-consumer-group] Connection to node 0 (DESKTOP-KEGAFFQ/172.30.207.29:9092) could not be established. Broker may not be available.
